@@ -7,3 +7,4 @@
 out/
 *.log
 *.out
+src/main/resources/logback-spring.xml
